@@ -1,0 +1,12 @@
+Genoma	Hosperdero	localidad
+'ECK-12'$'\r''.fasta'	porcino	Perú
+UNAP1.fasta	alpaca	Lampa
+UNAP2.fasta	alpaca	Lampa
+UNAP3.fasta	alpaca	Lampa
+UNAP4.fasta	alpaca	Lampa
+UNAP5.fasta	alpaca	Lampa
+UNAP6.fasta	alpaca	Melgar
+UNAP7.fasta	alpaca	Melgar
+UNAP8.fasta	alpaca	Melgar
+UNAP9.fasta	alpaca	Melgar
+UNAP10.fasta	alpaca	Melgar
